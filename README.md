@@ -5,4 +5,4 @@ coverY: 0
 
 # Welcome
 
-Welcome tto May OS Docs
+Welcome to May OS Docs
